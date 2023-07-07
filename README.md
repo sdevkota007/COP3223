@@ -1,1 +1,1 @@
-# COP3223_Summer2023
+# COP3223 Intro to C programming
